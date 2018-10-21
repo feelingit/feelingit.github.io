@@ -1,3 +1,9 @@
+img {
+  height: auto;
+  max-width: 100%;
+  border: 0;
+}
+
 
 .adjust-bar {
   -webkit-appearance: none;
