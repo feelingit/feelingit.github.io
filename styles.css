@@ -333,7 +333,7 @@
   display: flex;
   justify-content: space-between;
   background: url("assets/sh.webp") center center/cover no-repeat;
-  background: url("assets/sh-screenshot-retina-x0.5.png") center center/cover no-repeat;
+  background: url("assets/sh-screenshot-retina.png") center center/cover no-repeat;
 }
 .main__greeting {
   margin-top: 6px;
