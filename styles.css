@@ -626,7 +626,3 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
-
-section.main > div {
-  opacity: 0;
-}
